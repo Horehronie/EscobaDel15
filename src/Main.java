@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class Main {
         public static void main(String[] args) {
-                System.out.println("Bienvenido a La Escoba del 7!");
+                System.out.println("Bienvenido a La Escoba del 15!");
                 int entrada;
                 Scanner scanner = new Scanner(System.in);
                 do {
